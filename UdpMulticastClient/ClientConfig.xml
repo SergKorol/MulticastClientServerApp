@@ -1,0 +1,4 @@
+<ClientConfig>
+    <MulticastAddress>239.0.0.222</MulticastAddress>
+    <Port>11000</Port>
+</ClientConfig>
